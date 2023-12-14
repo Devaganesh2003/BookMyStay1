@@ -1,0 +1,74 @@
+#login_box{
+    background-color: rgba(236, 243, 238, 0.42);
+    margin-left: 900px;
+    margin-top: 16px;
+    height:900px;
+    width: 550px;
+    border-radius: 10px;
+}
+#title{
+    color: rgb(21, 22, 21);
+    margin-left: 160px;
+    margin-top: -65px;
+}
+#welcome{
+    margin-left: 99px;
+}
+#email_text{
+    margin-left: 60px;
+}
+#password_text{
+    Margin-left: 60px;
+}
+#text{
+    height: 40px;
+    width: 400px;
+    margin-left: 60px;
+    border-radius: 10px;
+}
+#forgot_pass{
+    margin-left: 60px;
+}
+
+#Conf_pass
+{
+     margin-left: 60px;
+}
+
+#age
+{
+     margin-left: 60px;
+}
+#num
+{
+    margin-left: 60px;
+    height: 40px;
+    width: 400px;
+    border-radius: 10px;
+}
+
+#signin_button{
+    margin-top: 40px;
+    margin-left: 100px;
+    height: 60px;
+    width: 330px;
+    border-radius: 10px;
+    background-color: rgb(245, 244, 248);
+    cursor: pointer;
+}
+#signin_button:hover{
+    background-color: rgb(121, 107, 160);
+}
+
+#sign_msg
+{
+    margin-left: 200px;
+}
+
+#back1
+{
+    background-image: url("");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}

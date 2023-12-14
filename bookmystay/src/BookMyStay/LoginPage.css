@@ -1,0 +1,80 @@
+body
+{
+    background-image: url('C:\Users\DELL\OneDrive\Documents\Project\book_mystay\book_mystay\src\MyApp\room-category3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ .wrapper{
+     width: 500px;
+     height: 640px;
+     background: transparent;
+     border: 2px solid rgba(0, 0, 0, 0.2);
+     backdrop-filter: blur(20px);
+     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+     color: #ffffff;
+     border-radius: 25px;
+     padding: 20px 40px;
+     margin-top: 30px;
+     margin-left: 800px;
+ }
+ #text
+ {
+    width:260px;
+    height:40px;
+    border: 2px solid rgba(0, 0, 0, 0.2);
+    border-radius: 25px;
+    margin-left: 100px;
+    border-color: rgb(35, 8, 71);
+ }
+ #email_text
+ {
+    color: rgb(62, 24, 83);
+    margin-left: 200px;
+ }
+ #password_text
+ {
+    color: rgb(82, 25, 87);
+    margin-left: 185px;
+ }
+ #welcome_text
+ {
+    color: black;
+ }
+ .login_button
+ {
+    background-color:rgb(247, 244, 244);
+    border-radius: 70px;
+    border-color: rgb(10, 7, 15);
+    border-style:solid;
+    height: 40px;
+    width: 260px;
+    margin-left: 100px;
+    cursor:pointer;
+ }
+ .login_button:hover{
+    background-color: rgb(184, 230, 133);
+    color: rgb(36, 30, 30);
+    border-color: rgb(145, 108, 108);
+}
+.login_button1
+ {
+    background-color:rgb(150, 160, 150);
+    border-radius: 50px;
+    border-color: rgb(13, 15, 15);
+    border-style:solid;
+    height: 40px;
+    width: 260px;
+    margin-left: 100px;
+    cursor:pointer;
+ }
+.login_button1:hover{
+    background-color: rgb(11, 12, 12);
+    color: rgb(126, 45, 45);
+    border-color: white;
+}
+.or
+{
+    color:blueviolet;
+    margin-left: 215px;
+    margin-bottom: 60px;
+}
